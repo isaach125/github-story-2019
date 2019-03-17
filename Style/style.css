@@ -1,0 +1,50 @@
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 38px;
+    font-family: Candara;
+    color: #333333;
+}
+
+#nav {
+    text-align: center;
+    padding: 0;
+}
+
+#nav li {
+    font-family: Candara;
+    display: inline;
+}
+
+#nav a {
+    text-decoration: none;
+    padding: 1px 18px;
+    color: #333333;
+    background-color: rgba(230, 255, 231, 0.65);
+}
+
+#nav li a:hover {
+    background-color: #f3f3f3;
+    text-decoration: underline;
+}
+
+#content {
+    width: 50%;
+    margin: auto;
+    margin-top: 3.5em;
+    border: 1px solid #333333;
+    align: center;
+    font-family: Candara;
+    background-color: rgba(230, 255, 231, 0.87);
+}
+
+#content p, #content h2 {
+    letter-spacing: 0.7px;
+    padding-left: 10px;
+    padding-right: 10px;}
