@@ -12,7 +12,7 @@ An original story about a journalist who is reporting a mystery tribe and his ad
 ### Chapters
 * [Chapter 1 - The Uncontacted Tribe](https://isaach125.github.io/github-story-2019/Chapter_1.html)
 * [Chapter 2 - Meeting The Old Tree](https://isaach125.github.io/github-story-2019/Chapter_2.html)
-* [Chapter 3 - A Long and Warm Night](https://isaach125.github.io/github-story-2019/Chapter_3.html)
+* [Chapter 3 - A Bloody Night](https://isaach125.github.io/github-story-2019/Chapter_3.html)
 
 
 ### Updates
