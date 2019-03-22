@@ -6,6 +6,7 @@
 
 
 ### Summary
+An original story about a journalist who is reporting a mystery tribe and his adventure in Africa.
 
 
 ### Chapters
