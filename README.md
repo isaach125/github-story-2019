@@ -20,5 +20,6 @@
 * **18/03/2019**: Upload Chapter 1 / Update README
 * **19/03/2019**: Upload Chapter 2 / Update README / Minor fixes for Chapter 1
 * **20/03/2019**: Upload Chapter 3 / Update README / Chapter 1&2 Updates
-* **22/03/2019**: Update README & index.html / Styling
-* **22/03/2019**: alterative_ending / .gitignore
+* **22/03/2019**: Update Chapter's content & README & index.html / Styling
+* **22/03/2019**: Update README / index.html / .gitignore
+* **22/03/2019**: Upload alterative_ending
